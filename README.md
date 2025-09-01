@@ -1,4 +1,4 @@
-# mui-data-table
+# mui-datatables-2025
 
 Enhanced MUI DataTables with modern styling and improved UX - Security Patched
 
@@ -14,7 +14,7 @@ A responsive datatables component built on [Material-UI](https://mui.com) with e
 ## 📦 Installation
 
 ```bash
-npm install mui-data-table --save
+npm install mui-datatables-2025 --save
 ```
 
 ## 🔧 Dependencies
@@ -28,7 +28,7 @@ npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
 ## 📖 Basic Usage
 
 ```jsx
-import MUIDataTable from "mui-data-table";
+import MUIDataTable from "mui-datatables-2025";
 
 const columns = ["Name", "Company", "City", "State"];
 
@@ -70,7 +70,7 @@ This version includes security updates:
 ## 🔗 Repository & Links
 
 - **GitHub Repository**: [https://github.com/adbenescigci/datatable](https://github.com/adbenescigci/datatable)
-- **NPM Package**: [mui-data-table](https://www.npmjs.com/package/mui-data-table)
+- **NPM Package**: [mui-datatables-2025](https://www.npmjs.com/package/mui-datatables-2025)
 - **Original Package**: [mui-datatables](https://github.com/gregnb/mui-datatables)
 
 ## 📄 License
@@ -80,10 +80,3 @@ MIT License - same as the original package.
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📚 Examples
-
-Check out the [examples folder](./examples/) for comprehensive usage examples:
-- Basic table implementation
-- Advanced features (filtering, sorting, pagination)
-- Custom styling and conditional formatting
