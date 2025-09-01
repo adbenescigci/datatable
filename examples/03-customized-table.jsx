@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import MUIDataTable from "mui-datatables-2025";
+import MUIDataTable from "mui-table-2025";
 
 const CustomizedTableExample = () => {
   const [data] = useState([

@@ -1,5 +1,5 @@
 import React from "react";
-import MUIDataTable from "mui-datatables-2025";
+import MUIDataTable from "mui-table-2025";
 
 const BasicTableExample = () => {
   const columns = [
@@ -42,7 +42,8 @@ const BasicTableExample = () => {
     <div style={{ padding: "20px" }}>
       <h2>Basic Table Example</h2>
       <p>
-        This example demonstrates the basic usage of the mui-datatables-2025 package.
+        This example demonstrates the basic usage of the mui-datatables-2025
+        package.
       </p>
 
       <MUIDataTable
@@ -55,4 +56,4 @@ const BasicTableExample = () => {
   );
 };
 
-export default BasicTableExample; 
+export default BasicTableExample;
