@@ -67,12 +67,11 @@ This version includes security updates:
 | --------------- | ----- | --- | ------------ |
 | 1.0.0           | 19.x  | 7.x | ✅ Supported |
 
-## 🔗 Original Package
+## 🔗 Repository & Links
 
-This is a fork of the original `mui-datatables` package. For the original package, visit:
-
+- **GitHub Repository**: [https://github.com/adbenescigci/datatable](https://github.com/adbenescigci/datatable)
+- **NPM Package**: [mui-data-table](https://www.npmjs.com/package/mui-data-table)
 - **Original Package**: [mui-datatables](https://github.com/gregnb/mui-datatables)
-- **NPM**: [mui-datatables](https://www.npmjs.com/package/mui-datatables)
 
 ## 📄 License
 
@@ -81,3 +80,10 @@ MIT License - same as the original package.
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📚 Examples
+
+Check out the [examples folder](./examples/) for comprehensive usage examples:
+- Basic table implementation
+- Advanced features (filtering, sorting, pagination)
+- Custom styling and conditional formatting
